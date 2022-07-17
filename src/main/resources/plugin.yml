@@ -1,0 +1,10 @@
+name: HeroesPets
+version: '${version}'
+main: net.brian.heroespets.HeroesPets
+api-version: 1.18
+depend:
+  - MythicMobs
+  - PlayerDataSync
+commands:
+  HeroesPet:
+    aliases: ["hp"]

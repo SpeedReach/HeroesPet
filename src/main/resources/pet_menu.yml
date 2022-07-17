@@ -1,0 +1,21 @@
+title: "&e寵物倉庫"
+current_pet: "當前寵物，點擊收回"
+elements:
+  outlay:
+    - "ppppppppp"
+    - "ppppppppp"
+    - "ppppppppp"
+    - "ppppppppp"
+    - "  t   d  "
+  pet: 'p'
+  teleport: 't'
+  despawn: 'd'
+  icons:
+    t:
+      material: "ENDER_PEARL"
+      display: "&d傳送寵物到身邊"
+      lore:
+        - "  &7點擊觸發"
+    d:
+      material: "BARRIER"
+      display: "收回寵物"

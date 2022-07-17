@@ -1,0 +1,4 @@
+spawn_pet: "你召喚了 #pet_name#"
+despawn_pet: "你收回了 #pet_name#"
+bag_full: "你的背包滿了，請清出一些空間"
+teleport: "你傳送了你的 #pet_name# 到你身邊"
